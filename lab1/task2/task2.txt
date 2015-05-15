@@ -1,0 +1,1 @@
+Array length should be predefined (#define ARRAY_SIZE 10) as demonstrated in task1 in accordance with good programming practices in C++.
